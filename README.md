@@ -80,14 +80,14 @@ O projeto segue práticas consolidadas de Business Intelligence e análise de da
     - **Etanol, Gasolina e Gasolina Aditivada**: menores médias registradas pela bandeira **ROYAL FIC** (R$ 3,65; R$ 5,67; R$ 5,67).
     - **GNV**: menor média registrada pela bandeira **LARCO** (R$ 4,23).
 - Na análise mensal do semestre, **todos os combustíveis apresentaram aumento médio de 1,51%**. Apesar do GNV também registrar alta no período, observou-se recuo nos preços a partir de agosto, mês marcado por uma elevação expressiva.
-| Combustível | Julho | Dezembro | Variação |
-|------------|-------|----------|----------|
-| Diesel | R$ 5,99 | R$ 6,08 | 1,50% |
-| Diesel S10 | R$ 6,05 | R$ 6,14 | 1,48% |
-| Etanol | R$ 4,22 | R$ 4,27 | 1,18% |
-| Gasolina | R$ 6,04 | R$ 6,14 | 1,66% |
-| Gasolina Aditivada | R$ 6,23 | R$ 6,34 | 1,77% |
-| GNV | R$ 4,72 | R$ 4,79 | 1,48% |
+    | Combustível | Julho | Dezembro | Variação |
+    |------------|-------|----------|----------|
+    | Diesel | R$ 5,99 | R$ 6,08 | 1,50% |
+    | Diesel S10 | R$ 6,05 | R$ 6,14 | 1,48% |
+    | Etanol | R$ 4,22 | R$ 4,27 | 1,18% |
+    | Gasolina | R$ 6,04 | R$ 6,14 | 1,66% |
+    | Gasolina Aditivada | R$ 6,23 | R$ 6,34 | 1,77% |
+    | GNV | R$ 4,72 | R$ 4,79 | 1,48% |
 - Ao dividir o mês em duas partes iguais, observou-se que **os preços tendem a subir com maior frequência no final do mês**.
 
 ### Gasolina
@@ -106,7 +106,7 @@ O projeto segue práticas consolidadas de Business Intelligence e análise de da
 
 Este projeto foi desenvolvido no contexto do curso **Power BI: analisando dados de forma inteligente**, oferecido pela Alura, com foco em problemas reais de negócio e aplicação prática de ferramentas amplamente utilizadas no mercado.
 
-🔗 Certificação:[Power BI: analisando dados de forma inteligente](https://cursos.alura.com.br/formalCertificate/10f0032a-a76d-4449-9159-da67356e3bd7)
+🔗 Certificação: [Power BI: analisando dados de forma inteligente](https://cursos.alura.com.br/formalCertificate/10f0032a-a76d-4449-9159-da67356e3bd7)
 
 ---
 
@@ -121,10 +121,8 @@ Este projeto foi desenvolvido no contexto do curso **Power BI: analisando dados 
 
 ## Autor
 
-**Albert Richard M. Lopes**  
+**Albert Richard M. Lopes** - [Linkedin](https://linkedin.com/in/albert-richard-73983723)
+
 Engenheiro de Computação | Desenvolvedor Android | Analista de Dados em transição
-[Linkedin](https://linkedin.com/in/albert-richard-73983723)
 
 ---
-
-
